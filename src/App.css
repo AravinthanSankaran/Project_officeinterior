@@ -1,0 +1,129 @@
+/* body */
+.body{
+  background-color: rgb(162, 162, 174);
+}
+/* navbar */
+.Margin{
+  margin: 0 auto;
+}
+.Arrow{
+  margin-left: 5px;
+}
+.Contact{
+  margin-left: 300px;
+}
+.pad{
+  padding: 20px;
+}
+/* banner */
+.Height{
+  height:500px ;
+}
+.done{
+  margin-top: -500px;
+  margin-left: 280px;
+  font-size: 50px;
+}
+.para{
+  font-size: 25px;
+  margin-left: 280px;
+}
+.text{
+  margin-left: 280px;
+}
+/* section3 */
+.color{
+  /* background-color: rgb(186, 203, 220); */
+  margin-top: 400px;
+  font-size: 40px;
+  text-align: center;
+  color: rgb(37, 37, 75);
+  padding: 35px;
+}
+.font{
+  font-size: 15px;
+  margin-top: 40px;
+}
+/* body */
+.tamil{
+  background-color: rgb(144, 144, 176);
+  display: flex;
+  padding: 100px;
+}
+.tip{
+  margin-left: 300px;
+  margin-top: -40px;
+}
+.image{
+  margin-top: 80px;
+  margin-left: -120px;
+}
+.image-1{
+  margin-top: 80px;
+  margin-left: 40px;
+}
+.work{
+  padding: 100px;
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+  background-color: rgb(57, 57, 145);
+  font-size: 25PX;
+}
+.out{
+  width: 100%;
+  padding: 20px;
+  margin-top: 120px;
+
+}
+.done-1{
+  margin-top: -500px;
+  margin-left: 280px;
+  font-size: 30px;
+  color:white;
+}
+.para-1{
+  font-size: 15px;
+  margin-left: 280px;
+  color: white;
+}
+.form{
+  margin-left: 500px;
+}
+.center{
+  text-align: center;
+}
+.head{
+  font-size: 25px;
+  text-align: center;
+}
+.menu{
+  display: flex;
+}
+.Title{
+  padding: 10px;
+  margin-left: 250px;
+}
+.create{
+  margin-left: 250px;
+  display: flex;
+}
+.One{
+  padding: 10px;
+}
+.two{
+  margin-left: 200px;
+}
+.three{
+  text-align: center;
+}
+@media screen and (max-width:768px) {
+  .tamil .tip{
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+.top{
+  margin-top: -100px;
+  padding: 40px;
+}
